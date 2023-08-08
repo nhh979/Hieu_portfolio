@@ -1,4 +1,3 @@
-theme: minima
 # Hieu_Portfolio
 My personal data analytics projects.
 
