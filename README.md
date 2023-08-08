@@ -1,4 +1,4 @@
-# My_portfolio
+# Hieu_Portfolio
 My personal data analytics projects.
 
 # [Project 1: Employee Retention Prediction](https://github.com/nhh979/employee_retention_proj)
