@@ -8,7 +8,9 @@ My personal data analytics projects.
 - Optimized the models using GridSearchCV with 5-fold cross validation and got a final RMSLE score of 0.47501 from XGBoost model.
 
 
-![hm](/images/tuned_models.jpg)
+![](https://github.com/nhh979/Bike_Sharing_Demand_proj/blob/main/images/baseline_models_comparison.jpg)  
+
+![](https://github.com/nhh979/Bike_Sharing_Demand_proj/blob/main/images/tuned_models.jpg)  
 
 |Model|Public RMSLE|Private RMSLE|
 |------|------|------|
