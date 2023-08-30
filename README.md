@@ -7,7 +7,7 @@ My personal data analytics projects.
 - Built models to predict the number of bike rentals for a giving time based on historical data and compared the difference in performance between with and without feature engineering.
 - Optimized the models using GridSearchCV with 5-fold cross validation and got a final RMSLE score of 0.47501 from XGBoost model.
 
-<img src="images/baseline_models_comparison.jpgG" class="img-responsive" alt=""> </div>
+<img src="./images/baseline_models_comparison.jpgG" class="img-responsive" alt=""> </div>
 
 ![](https://github.com/nhh979/Bike_Sharing_Demand_proj/blob/main/images/tuned_models.jpg)
 
