@@ -9,7 +9,7 @@ My personal data analytics projects.
 
 <img src="./images/baseline_models_comparison.jpgG" class="img-responsive" alt=""> </div>
 
-![](https://github.com/nhh979/Bike_Sharing_Demand_proj/blob/main/images/tuned_models.jpg)
+![hm](https://github.com/nhh979/Bike_Sharing_Demand_proj/blob/main/images/tuned_models.jpg)
 
 |Model|Public RMSLE|Private RMSLE|
 |------|------|------|
