@@ -1,4 +1,4 @@
-# Portfolio
+# Hieu Nguyen Portfolio
 My personal data analytics projects.
 
 # [Project 1: Bike Sharing Demand - Kaggle Competition](https://github.com/nhh979/Bike_Sharing_Demand_proj/tree/main)
